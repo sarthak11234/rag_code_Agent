@@ -1,4 +1,4 @@
-# RAG Code Agent
+# RAG Code Agent (Local)
 
 A specialized LLM agent designed for codebase analysis that combines **Static Analysis** with **Retrieval-Augmented Generation (RAG)**.
 
